@@ -1,0 +1,64 @@
+\documentclass[a5paper, 11pt, openright, twoside]{book}
+\title{The History of Mar-Ktu\\\large{An Overview and Chronology}}
+\date{2018}
+\author{Dennysaurus539, No. Eight, Dregunflight}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{circuitikz}
+\usepackage{tcolorbox}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{tipa}
+\usepackage{tocloft}
+	\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\usepackage{changepage}
+\usepackage{imakeidx}
+	\makeindex[intoc]
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{etoolbox}
+\pagestyle{fancy}
+	\fancyhead[LE,RO]{\thepage}
+	\fancyhead[RE]{\leftmark}
+	\fancyhead[LO]{\rightmark}
+	\fancyfoot[CE,CO]{}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0pt}
+
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{0}
+
+\patchcmd{\chapter}{plain}{chapterstart}{}{}
+\patchcmd{\part}{plain}{chapterstart}{}{}
+\fancypagestyle{chapterstart}{
+	\renewcommand{\headrulewidth}{00pt}
+	\fancyhf{}
+	%\fancyhead[LO,RE]{\thepage}
+}
+
+\begin{document}
+	\pagenumbering{gobble}	
+	\input{history-title}
+	\pagenumbering{roman}
+	\input{history-frontmatter}
+	\pagenumbering{arabic}
+	\part{Mar-Ktu Before Year 0}
+	\chapter{Vinayaka Before Year 0}
+	\input{history-chapter1}
+	\chapter{Ma'at Before Year 0}
+	\input{history-chapter2}
+	\part{The Classical Era}
+	\part{The Early Middle Ages}
+	\part{The Colonial Era}
+	\part{The Early Modern Era}
+	\part{The Millennium War \& Aftermath} 
+	\printindex
+\end{document}

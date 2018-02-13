@@ -1,0 +1,69 @@
+\documentclass[ansiapaper, 11pt, openright, twoside]{book}
+\title{The Historical Encyclopedia of Mar-Ktu}
+\date{2018}
+\author{Dennysaurus539, No. Eight, Dregunflight}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{circuitikz}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{tipa}
+\usepackage{tocloft}
+	\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\usepackage{changepage}
+\usepackage{imakeidx}
+	\makeindex[intoc]
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{etoolbox}
+\pagestyle{fancy}
+	\fancyhead[LE,RO]{\thepage}
+	\fancyhead[RE,LO]{\rightmark}
+	%\fancyhead[LO]{\rightmark}
+	\fancyfoot[CE,CO]{}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0pt}
+
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{-1}
+
+\patchcmd{\chapter}{plain}{chapterstart}{}{}
+\patchcmd{\part}{plain}{chapterstart}{}{}
+\fancypagestyle{chapterstart}{
+	\renewcommand{\headrulewidth}{00pt}
+	\fancyhf{}
+	%\fancyhead[LO,RE]{\thepage}
+}
+
+\begin{document}
+	\pagenumbering{gobble}	
+	\input{encyclopedia-title}
+	\pagenumbering{roman}
+	\input{encyclopedia-frontmatter}
+	\pagenumbering{arabic}
+	\chapter{Bambania}
+	\input{encyclopedia-bambania}
+	\chapter{Enki \& Thoth}
+	\input{encyclopedia-enki-thoth}
+	\chapter{Ma'at}
+	\input{encyclopedia-maat}
+	\chapter{Pangu}
+	\input{encyclopedia-pangu}
+	\chapter{Silvonia}
+	\input{encyclopedia-silvonia}
+	\chapter{Ullr}
+	\input{encyclopedia-ullr}
+	\chapter{Vinayaka} 
+	\input{encyclopedia-vinayaka}
+	\printindex
+	
+\end{document}
