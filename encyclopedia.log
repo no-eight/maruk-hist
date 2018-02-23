@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.19)  23 FEB 2018 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.19)  23 FEB 2018 14:28
 entering extended mode
 **./encyclopedia.tex
 (encyclopedia.tex
@@ -1302,37 +1302,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ] (encyclopedia-silvonia.tex) [9] [10
 
 ]
-(encyclopedia-ullr.tex)
-Runaway argument?
-{Id!Iddiat Houses \subsection{Modern Iddish Society}\index{Id!Modern \ETC.
-! File ended while scanning use of \@wrindex.
-<inserted text> 
-                \par 
-l.65 	\input{encyclopedia-ullr}
-                               
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+(encyclopedia-ullr.tex [11]) [12] (encyclopedia-vinayaka.tex) [13
+
+] [14
+
+]
+runsystem(makeindex encyclopedia.idx)...executed (allowed).
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--69
-\OT1/cmr/m/n/10.95 \chapterVinayaka \inputencyclopedia-vinayaka
- []
+(encyclopedia.ind) [15
 
-[11])
-! Emergency stop.
-<*> ./encyclopedia.tex
-                      
-*** (job aborted, no legal \end found)
-
- 
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+ (encyclopedia.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package rerunfilecheck Info: File `encyclopedia.out' has not changed.
+(rerunfilecheck)             Checksum: E280CFBA8BB5C3FE4DE8667DC81F3257;578.
+ ) 
 Here is how much of TeX's memory you used:
- 28273 strings out of 493303
- 597713 string characters out of 3141880
+ 28336 strings out of 493303
+ 598610 string characters out of 3141880
  877319 words of memory out of 3000000
- 31348 multiletter control sequences out of 15000+200000
- 8318 words of font info for 29 fonts, out of 3000000 for 9000
+ 31364 multiletter control sequences out of 15000+200000
+ 11431 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,73p,940b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 62i,11n,73p,940b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Drive Core/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Drive Cor
+e/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Drive Core/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb><D:/Drive Core/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><D:/Drive Core/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><D:/Drive Core/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Drive 
+Core/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on encyclopedia.pdf (19 pages, 150902 bytes).
+PDF statistics:
+ 248 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+
