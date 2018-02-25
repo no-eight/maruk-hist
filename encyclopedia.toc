@@ -1,4 +1,4 @@
-\select@language {english}
+\babel@toc {english}{}
 \contentsline {chapter}{\nameref {chap:intro}}{iii}{chapter*.1}
 \contentsline {chapter}{Bambania}{1}{chapter*.2}
 \contentsline {chapter}{Enki \& Thoth}{3}{chapter*.3}
@@ -17,7 +17,38 @@
 \contentsline {chapter}{Pangu}{9}{chapter*.16}
 \contentsline {chapter}{Silvonia}{11}{chapter*.17}
 \contentsline {chapter}{Ullr}{13}{chapter*.18}
-\contentsline {chapter}{Vinayaka}{15}{chapter*.19}
-\contentsline {section}{Tz'amtanak'al}{15}{section*.20}
-\contentsline {subsection}{Mythology}{15}{subsection*.21}
-\contentsline {chapter}{Index}{17}{section*.22}
+\contentsline {section}{Id}{13}{section*.19}
+\contentsline {subsection}{Iddish History}{13}{subsection*.20}
+\contentsline {subsubsection}{Early History}{13}{subsubsection*.21}
+\contentsline {subsubsection}{Introduction of Agriculture}{13}{subsubsection*.22}
+\contentsline {subsubsection}{Iddiat Clans and Raiding of Bialka}{14}{subsubsection*.23}
+\contentsline {subsubsection}{The Iddish Crusades}{14}{subsubsection*.24}
+\contentsline {subsubsection}{Iddiat Participation in Skadunist Crusades}{14}{subsubsection*.25}
+\contentsline {subsubsection}{Creation of Hearths}{14}{subsubsection*.26}
+\contentsline {subsubsection}{Demirbjorn Revolution and Iddish High Kings}{14}{subsubsection*.27}
+\contentsline {subsubsection}{Conspiracy of Id}{14}{subsubsection*.28}
+\contentsline {subsubsection}{First Dissonance}{14}{subsubsection*.29}
+\contentsline {subsubsection}{Reformative Era}{14}{subsubsection*.30}
+\contentsline {subsubsection}{Kupperstar and Panserna Dynasties}{14}{subsubsection*.31}
+\contentsline {subsubsection}{Second Dissonance}{14}{subsubsection*.32}
+\contentsline {subsubsection}{Empire of Great Id}{14}{subsubsection*.33}
+\contentsline {subsubsection}{Third Dissonance}{14}{subsubsection*.34}
+\contentsline {subsubsection}{First Parliamentary Era}{14}{subsubsection*.35}
+\contentsline {subsubsection}{Fourth Dissonance and Second Parliamentary Era}{14}{subsubsection*.36}
+\contentsline {subsubsection}{Millennial Id and the Millennium War}{14}{subsubsection*.37}
+\contentsline {subsubsection}{Modern Id}{14}{subsubsection*.38}
+\contentsline {subsection}{Ancient Iddiat Customs}{14}{subsection*.39}
+\contentsline {subsubsection}{Iddiat Houses and Tribes}{14}{subsubsection*.40}
+\contentsline {subsubsection}{Law of Taboo}{15}{subsubsection*.41}
+\contentsline {subsubsection}{Filial Retinue}{15}{subsubsection*.42}
+\contentsline {subsubsection}{Marital Negotiation}{15}{subsubsection*.43}
+\contentsline {subsubsection}{Ancient Iddish Mythology}{15}{subsubsection*.44}
+\contentsline {subsubsection}{Iddiat Dogsleds}{15}{subsubsection*.45}
+\contentsline {subsection}{Modernity}{15}{subsection*.46}
+\contentsline {subsubsection}{Iddish Houses}{15}{subsubsection*.47}
+\contentsline {subsection}{Modern Iddish Society}{15}{subsection*.48}
+\contentsline {subsection}{Iddish Culture}{15}{subsection*.49}
+\contentsline {chapter}{Vinayaka}{17}{chapter*.50}
+\contentsline {section}{Tz'amtanak'al}{17}{section*.51}
+\contentsline {subsection}{Mythology}{17}{subsection*.52}
+\contentsline {chapter}{Index}{19}{section*.53}
