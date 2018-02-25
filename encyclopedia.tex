@@ -47,24 +47,42 @@
 
 \begin{document}
 	\pagenumbering{gobble}	
-	\input{encyclopedia-title}
+	\input{encyclopedia/title}
 	\pagenumbering{roman}
-	\input{encyclopedia-frontmatter}
+	\input{encyclopedia/frontmatter}
 	\pagenumbering{arabic}
 	\chapter{Bambania}
-	\input{encyclopedia-bambania}
+		\begin{multicols}{2}
+			
+		\end{multicols}
 	\chapter{Enki \& Thoth}
-	\input{encyclopedia-enki-thoth}
+		\begin{multicols}{2}
+			
+		\end{multicols}
 	\chapter{Ma'at}
-	\input{encyclopedia-maat}
+		\begin{multicols}{2}
+			\section{Ujiteru}
+				\input{encyclopedia/maat-ujiteru}
+			\section{Tinar Era of Bulkhai}
+				\input{encyclopedia/maat-tinar}
+		\end{multicols}
 	\chapter{Pangu}
-	\input{encyclopedia-pangu}
+		\begin{multicols}{2}
+			
+		\end{multicols}
 	\chapter{Silvonia}
-	\input{encyclopedia-silvonia}
+		\begin{multicols}{2}
+			
+		\end{multicols}
 	\chapter{Ullr}
-	\input{encyclopedia-ullr}
+		\begin{multicols}{2}
+		
+		\end{multicols}
 	\chapter{Vinayaka} 
-	\input{encyclopedia-vinayaka}
+		\begin{multicols}{2}
+			\section{Tz'amtanak'al}
+				\input{encyclopedia/vinayaka-tzamtanakal}
+		\end{multicols}
 	\printindex
 	
 \end{document}

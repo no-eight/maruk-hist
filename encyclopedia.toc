@@ -17,33 +17,7 @@
 \contentsline {chapter}{Pangu}{9}{chapter*.16}
 \contentsline {chapter}{Silvonia}{11}{chapter*.17}
 \contentsline {chapter}{Ullr}{13}{chapter*.18}
-\contentsline {section}{Id}{13}{section*.19}
-\contentsline {subsection}{Iddish History}{13}{subsection*.20}
-\contentsline {subsubsection}{Early History}{13}{subsubsection*.21}
-\contentsline {subsubsection}{Formation of Mountain-hearths}{13}{subsubsection*.22}
-\contentsline {subsubsection}{Early Feudal Period}{14}{subsubsection*.23}
-\contentsline {subsubsection}{Entrance of Skadunism}{14}{subsubsection*.24}
-\contentsline {subsubsection}{Demirbjorn Dynasty}{14}{subsubsection*.25}
-\contentsline {subsubsection}{Crusader Era}{14}{subsubsection*.26}
-\contentsline {subsubsection}{Conspiracy of Id}{14}{subsubsection*.27}
-\contentsline {subsubsection}{First Anarchal Period}{14}{subsubsection*.28}
-\contentsline {subsubsection}{Reformative Era}{14}{subsubsection*.29}
-\contentsline {subsubsection}{Second Anarchal Period}{14}{subsubsection*.30}
-\contentsline {subsubsection}{Yoriksen and Kupperstar Dynasties}{14}{subsubsection*.31}
-\contentsline {subsubsection}{First Empire of Great Id}{14}{subsubsection*.32}
-\contentsline {subsubsection}{Third Anarchal Period}{14}{subsubsection*.33}
-\contentsline {subsubsection}{Second Empire of Great Id}{14}{subsubsection*.34}
-\contentsline {subsubsection}{Iddish Renaissance}{14}{subsubsection*.35}
-\contentsline {subsubsection}{Great Revolution}{14}{subsubsection*.36}
-\contentsline {subsubsection}{Id during the Millennium War}{14}{subsubsection*.37}
-\contentsline {subsubsection}{Postwar Id}{14}{subsubsection*.38}
-\contentsline {subsection}{Law of Taboo}{14}{subsection*.39}
-\contentsline {subsection}{Ancient Iddish Mythology}{14}{subsection*.40}
-\contentsline {subsection}{Iddiat Houses}{14}{subsection*.41}
-\contentsline {subsection}{Modern Iddish Society}{14}{subsection*.42}
-\contentsline {subsection}{Iddish Culture}{14}{subsection*.43}
-\contentsline {subsection}{Great Northern Road}{14}{subsection*.44}
-\contentsline {chapter}{Vinayaka}{15}{chapter*.45}
-\contentsline {section}{Tz'amtanak'al}{15}{section*.46}
-\contentsline {subsection}{Mythology}{15}{subsection*.47}
-\contentsline {chapter}{Index}{17}{section*.48}
+\contentsline {chapter}{Vinayaka}{15}{chapter*.19}
+\contentsline {section}{Tz'amtanak'al}{15}{section*.20}
+\contentsline {subsection}{Mythology}{15}{subsection*.21}
+\contentsline {chapter}{Index}{17}{section*.22}

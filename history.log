@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.7)  25 FEB 2018 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.7)  25 FEB 2018 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1277,10 +1277,10 @@ LaTeX Info: Redefining \nameref on input line 48.
 \@outlinefile=\write7
 \openout7 = `history.out'.
 
- (./history-title.tex [1
+ (./history/title.tex [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./history-frontmatter.te
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./history/frontmatter.te
 x
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <19.22708> not available
@@ -1325,7 +1325,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ] [2]
 Chapter 1.
-(./history-ancient-skadunism.tex
+(./history/ancient-skadunism.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -1389,8 +1389,8 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 28349 strings out of 492990
- 600691 string characters out of 6135006
+ 28348 strings out of 492990
+ 600659 string characters out of 6135006
  869627 words of memory out of 5000000
  31425 multiletter control sequences out of 15000+600000
  15394 words of font info for 53 fonts, out of 8000000 for 9000
