@@ -11,7 +11,7 @@
 \contentsline {subsubsection}{Conquest of Qian}{5}{subsubsection*.10}
 \contentsline {subsubsection}{Conquest of Al-Eru}{5}{subsubsection*.11}
 \contentsline {subsubsection}{Betrayal}{5}{subsubsection*.12}
-\contentsline {section}{Bulkhan Peninsula}{5}{section*.13}
+\contentsline {section}{Bulkhai Sahinate}{5}{section*.13}
 \contentsline {subsection}{History}{6}{subsection*.14}
 \contentsline {subsubsection}{Founding}{6}{subsubsection*.15}
 \contentsline {paragraph}{Decline of Firiir}{6}{paragraph*.16}
