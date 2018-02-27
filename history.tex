@@ -6,7 +6,8 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{multicol}
-\usepackage[margin=0.6in]{geometry}
+%\usepackage[vmargin=1.5cm,rmargin=1.75cm,lmargin=1.5cm]{geometry}
+\usepackage{geometry}
 \usepackage{blindtext}
 \usepackage{graphicx}
 \usepackage{circuitikz}
@@ -44,6 +45,12 @@
 	\fancyhf{}
 	%\fancyhead[LO,RE]{\thepage}
 }
+
+\let\tmp\oddsidemargin
+\let\oddsidemargin\evensidemargin
+\let\evensidemargin\tmp
+\reversemarginpar
+%added because the margins were flipped
 
 \begin{document}
 	\pagenumbering{gobble}	
