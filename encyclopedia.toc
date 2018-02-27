@@ -12,50 +12,57 @@
 \contentsline {subsubsection}{Conquest of Al-Eru}{5}{subsubsection*.11}
 \contentsline {subsubsection}{Betrayal}{5}{subsubsection*.12}
 \contentsline {section}{Bulkhai - Tinar Era}{5}{section*.13}
-\contentsline {subsection}{Tinar Mubarat (cir. 20 - 196)}{5}{subsection*.14}
-\contentsline {subsubsection}{Tinarlar I (cir.20 - 54 AC)}{5}{subsubsection*.15}
-\contentsline {subsubsection}{Clintir (54 - 87 AC)}{7}{subsubsection*.16}
-\contentsline {subsubsection}{Tinef (87 - 101 AC)}{7}{subsubsection*.17}
-\contentsline {subsubsection}{Gezuar I (101 - 135 AC)}{8}{subsubsection*.18}
-\contentsline {subsubsection}{Zetnep (135 - 149 AC)}{9}{subsubsection*.19}
-\contentsline {subsubsection}{Nurir (149 - 163 AC)}{10}{subsubsection*.20}
-\contentsline {subsubsection}{Falir I (163 - 186 AC)}{10}{subsubsection*.21}
-\contentsline {subsubsection}{Gezuar II (186 - 196 AC)}{10}{subsubsection*.22}
-\contentsline {chapter}{Pangu}{13}{chapter*.23}
-\contentsline {chapter}{Silvonia}{15}{chapter*.24}
-\contentsline {chapter}{Ullr}{17}{chapter*.25}
-\contentsline {section}{Id}{17}{section*.26}
-\contentsline {subsection}{Iddish History}{17}{subsection*.27}
-\contentsline {subsubsection}{Early History}{17}{subsubsection*.28}
-\contentsline {subsubsection}{Introduction of Agriculture}{17}{subsubsection*.29}
-\contentsline {subsubsection}{Iddiat Clans and Raiding of Bialka}{18}{subsubsection*.30}
-\contentsline {subsubsection}{The Iddish Crusades}{18}{subsubsection*.31}
-\contentsline {subsubsection}{Iddiat Participation in Skadunist Crusades}{18}{subsubsection*.32}
-\contentsline {subsubsection}{Creation of Hearths}{18}{subsubsection*.33}
-\contentsline {subsubsection}{Demirbjorn Revolution and Iddish High Kings}{18}{subsubsection*.34}
-\contentsline {subsubsection}{Conspiracy of Id}{18}{subsubsection*.35}
-\contentsline {subsubsection}{First Dissonance}{18}{subsubsection*.36}
-\contentsline {subsubsection}{Reformative Era}{18}{subsubsection*.37}
-\contentsline {subsubsection}{Kupperstar and Panserna Dynasties}{18}{subsubsection*.38}
-\contentsline {subsubsection}{Second Dissonance}{18}{subsubsection*.39}
-\contentsline {subsubsection}{Empire of Great Id}{18}{subsubsection*.40}
-\contentsline {subsubsection}{Third Dissonance}{18}{subsubsection*.41}
-\contentsline {subsubsection}{First Parliamentary Era}{18}{subsubsection*.42}
-\contentsline {subsubsection}{Fourth Dissonance and Second Parliamentary Era}{18}{subsubsection*.43}
-\contentsline {subsubsection}{Millennial Id and the Millennium War}{18}{subsubsection*.44}
-\contentsline {subsubsection}{Modern Id}{18}{subsubsection*.45}
-\contentsline {subsection}{Ancient Iddiat Customs}{18}{subsection*.46}
-\contentsline {subsubsection}{Iddiat Houses and Tribes}{18}{subsubsection*.47}
-\contentsline {subsubsection}{Law of Taboo}{19}{subsubsection*.48}
-\contentsline {subsubsection}{Filial Retinue}{19}{subsubsection*.49}
-\contentsline {subsubsection}{Marital Negotiation}{19}{subsubsection*.50}
-\contentsline {subsubsection}{Ancient Iddish Mythology}{19}{subsubsection*.51}
-\contentsline {subsubsection}{Iddiat Dogsleds}{19}{subsubsection*.52}
-\contentsline {subsection}{Modernity}{19}{subsection*.53}
-\contentsline {subsubsection}{Iddish Houses}{19}{subsubsection*.54}
-\contentsline {subsection}{Modern Iddish Society}{19}{subsection*.55}
-\contentsline {subsection}{Iddish Culture}{19}{subsection*.56}
-\contentsline {chapter}{Vinayaka}{21}{chapter*.57}
-\contentsline {section}{Tz'amtanak'al}{21}{section*.58}
-\contentsline {subsection}{Mythology}{21}{subsection*.59}
-\contentsline {chapter}{Index}{23}{section*.60}
+\contentsline {section}{Firiik Era, Bulkhan Peninsula (1100 BC - 120 AC)}{5}{section*.14}
+\contentsline {subsection}{Pre-Firiik Era (cir. 1500 - 1100 BC)}{5}{subsection*.15}
+\contentsline {subsection}{Growth, Spread, and Influence (1100 - 562 BC)}{5}{subsection*.16}
+\contentsline {subsection}{Firiik Mubarat Confederation (562 BC - 17 AC)}{5}{subsection*.17}
+\contentsline {subsection}{Late Firiik Era, Decline (17 - 120 AC)}{5}{subsection*.18}
+\contentsline {section}{Tinar Era, Bulkhan Peninsula (120 - 717 AC)}{5}{section*.19}
+\contentsline {subsection}{Tinar Mubarat (cir. 20 - 196 AC)}{5}{subsection*.20}
+\contentsline {subsection}{Early Bulkhai Sahinate (196 - 357 AC)}{6}{subsection*.21}
+\contentsline {subsection}{Beliar-Reform Era, Bulkhai Sahinate (357 - 533 AC)}{6}{subsection*.22}
+\contentsline {subsection}{Ximal-Reform Era, Bulkhai Sahinate (533 - 632 AC)}{6}{subsection*.23}
+\contentsline {subsection}{Late Bulkhai Period (632 - 717 AC)}{6}{subsection*.24}
+\contentsline {section}{Feuding Cities Era, Bulkhan Peninsula (717 - 830 AC)}{6}{section*.25}
+\contentsline {subsection}{Wars of Bulkhan Succession (717 - 729 AC)}{6}{subsection*.26}
+\contentsline {subsection}{Post-Dissolution Period, Bulkhan Peninsula (729 - 796 AC)}{6}{subsection*.27}
+\contentsline {subsection}{Pre-Colonial Period, Bulkhan Peninsula (796 - 830 AC)}{6}{subsection*.28}
+\contentsline {section}{Colonial Era, Bulkhan Peninsula (830 - 1020 AC)}{6}{section*.29}
+\contentsline {chapter}{Pangu}{7}{chapter*.30}
+\contentsline {chapter}{Silvonia}{9}{chapter*.31}
+\contentsline {chapter}{Ullr}{11}{chapter*.32}
+\contentsline {section}{Id}{11}{section*.33}
+\contentsline {subsection}{Iddish History}{11}{subsection*.34}
+\contentsline {subsubsection}{Early History}{11}{subsubsection*.35}
+\contentsline {subsubsection}{Introduction of Agriculture}{11}{subsubsection*.36}
+\contentsline {subsubsection}{Iddiat Clans and Raiding of Bialka}{12}{subsubsection*.37}
+\contentsline {subsubsection}{The Iddish Crusades}{12}{subsubsection*.38}
+\contentsline {subsubsection}{Iddiat Participation in Skadunist Crusades}{12}{subsubsection*.39}
+\contentsline {subsubsection}{Creation of Hearths}{12}{subsubsection*.40}
+\contentsline {subsubsection}{Demirbjorn Revolution and Iddish High Kings}{12}{subsubsection*.41}
+\contentsline {subsubsection}{Conspiracy of Id}{12}{subsubsection*.42}
+\contentsline {subsubsection}{First Dissonance}{12}{subsubsection*.43}
+\contentsline {subsubsection}{Reformative Era}{12}{subsubsection*.44}
+\contentsline {subsubsection}{Kupperstar and Panserna Dynasties}{12}{subsubsection*.45}
+\contentsline {subsubsection}{Second Dissonance}{12}{subsubsection*.46}
+\contentsline {subsubsection}{Empire of Great Id}{12}{subsubsection*.47}
+\contentsline {subsubsection}{Third Dissonance}{12}{subsubsection*.48}
+\contentsline {subsubsection}{First Parliamentary Era}{12}{subsubsection*.49}
+\contentsline {subsubsection}{Fourth Dissonance and Second Parliamentary Era}{12}{subsubsection*.50}
+\contentsline {subsubsection}{Millennial Id and the Millennium War}{12}{subsubsection*.51}
+\contentsline {subsubsection}{Modern Id}{12}{subsubsection*.52}
+\contentsline {subsection}{Ancient Iddiat Customs}{12}{subsection*.53}
+\contentsline {subsubsection}{Iddiat Houses and Tribes}{12}{subsubsection*.54}
+\contentsline {subsubsection}{Law of Taboo}{13}{subsubsection*.55}
+\contentsline {subsubsection}{Filial Retinue}{13}{subsubsection*.56}
+\contentsline {subsubsection}{Marital Negotiation}{13}{subsubsection*.57}
+\contentsline {subsubsection}{Ancient Iddish Mythology}{13}{subsubsection*.58}
+\contentsline {subsubsection}{Iddiat Dogsleds}{13}{subsubsection*.59}
+\contentsline {subsection}{Modernity}{13}{subsection*.60}
+\contentsline {subsubsection}{Iddish Houses}{13}{subsubsection*.61}
+\contentsline {subsection}{Modern Iddish Society}{13}{subsection*.62}
+\contentsline {subsection}{Iddish Culture}{13}{subsection*.63}
+\contentsline {chapter}{Vinayaka}{15}{chapter*.64}
+\contentsline {section}{Tz'amtanak'al}{15}{section*.65}
+\contentsline {subsection}{Mythology}{15}{subsection*.66}
+\contentsline {chapter}{Index}{17}{section*.67}
