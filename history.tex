@@ -6,7 +6,7 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{multicol}
-%\usepackage[vmargin=1.5cm,rmargin=1.75cm,lmargin=1.5cm]{geometry}
+\usepackage[bottom=0.8in]{geometry}
 \usepackage{geometry}
 \usepackage{blindtext}
 \usepackage{graphicx}
@@ -46,11 +46,9 @@
 	%\fancyhead[LO,RE]{\thepage}
 }
 
-\let\tmp\oddsidemargin
-\let\oddsidemargin\evensidemargin
-\let\evensidemargin\tmp
-\reversemarginpar
-%added because the margins were flipped
+\usepackage{sectsty} 
+	\chapternumberfont{\LARGE}
+	\chaptertitlefont{\huge}
 
 \begin{document}
 	\pagenumbering{gobble}	
