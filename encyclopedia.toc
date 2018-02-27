@@ -11,51 +11,70 @@
 \contentsline {subsubsection}{Conquest of Qian}{5}{subsubsection*.10}
 \contentsline {subsubsection}{Conquest of Al-Eru}{5}{subsubsection*.11}
 \contentsline {subsubsection}{Betrayal}{5}{subsubsection*.12}
-\contentsline {section}{Bulkhai - Tinar Era}{5}{section*.13}
-\contentsline {subsection}{Tinar Mubarat (cir. 20 - 196)}{5}{subsection*.14}
-\contentsline {subsubsection}{Tinarlar I (cir.20 - 54 AC)}{5}{subsubsection*.15}
-\contentsline {subsubsection}{Clintir (54 - 87 AC)}{7}{subsubsection*.16}
-\contentsline {subsubsection}{Tinef (87 - 101 AC)}{7}{subsubsection*.17}
-\contentsline {subsubsection}{Gezuar I (101 - 135 AC)}{8}{subsubsection*.18}
-\contentsline {subsubsection}{Zetnep (135 - 149 AC)}{9}{subsubsection*.19}
-\contentsline {subsubsection}{Nurir (149 - 163 AC)}{10}{subsubsection*.20}
-\contentsline {subsubsection}{Falir I (163 - 186 AC)}{10}{subsubsection*.21}
-\contentsline {subsubsection}{Gezuar II (186 - 196 AC)}{10}{subsubsection*.22}
-\contentsline {chapter}{Pangu}{13}{chapter*.23}
-\contentsline {chapter}{Silvonia}{15}{chapter*.24}
-\contentsline {chapter}{Ullr}{17}{chapter*.25}
-\contentsline {section}{Id}{17}{section*.26}
-\contentsline {subsection}{Iddish History}{17}{subsection*.27}
-\contentsline {subsubsection}{Early History}{17}{subsubsection*.28}
-\contentsline {subsubsection}{Introduction of Agriculture}{17}{subsubsection*.29}
-\contentsline {subsubsection}{Iddiat Clans and Raiding of Bialka}{18}{subsubsection*.30}
-\contentsline {subsubsection}{The Iddish Crusades}{18}{subsubsection*.31}
-\contentsline {subsubsection}{Iddiat Participation in Skadunist Crusades}{18}{subsubsection*.32}
-\contentsline {subsubsection}{Creation of Hearths}{18}{subsubsection*.33}
-\contentsline {subsubsection}{Demirbjorn Revolution and Iddish High Kings}{18}{subsubsection*.34}
-\contentsline {subsubsection}{Conspiracy of Id}{18}{subsubsection*.35}
-\contentsline {subsubsection}{First Dissonance}{18}{subsubsection*.36}
-\contentsline {subsubsection}{Reformative Era}{18}{subsubsection*.37}
-\contentsline {subsubsection}{Kupperstar and Panserna Dynasties}{18}{subsubsection*.38}
-\contentsline {subsubsection}{Second Dissonance}{18}{subsubsection*.39}
-\contentsline {subsubsection}{Empire of Great Id}{18}{subsubsection*.40}
-\contentsline {subsubsection}{Third Dissonance}{18}{subsubsection*.41}
-\contentsline {subsubsection}{First Parliamentary Era}{18}{subsubsection*.42}
-\contentsline {subsubsection}{Fourth Dissonance and Second Parliamentary Era}{18}{subsubsection*.43}
-\contentsline {subsubsection}{Millennial Id and the Millennium War}{18}{subsubsection*.44}
-\contentsline {subsubsection}{Modern Id}{18}{subsubsection*.45}
-\contentsline {subsection}{Ancient Iddiat Customs}{18}{subsection*.46}
-\contentsline {subsubsection}{Iddiat Houses and Tribes}{18}{subsubsection*.47}
-\contentsline {subsubsection}{Law of Taboo}{19}{subsubsection*.48}
-\contentsline {subsubsection}{Filial Retinue}{19}{subsubsection*.49}
-\contentsline {subsubsection}{Marital Negotiation}{19}{subsubsection*.50}
-\contentsline {subsubsection}{Ancient Iddish Mythology}{19}{subsubsection*.51}
-\contentsline {subsubsection}{Iddiat Dogsleds}{19}{subsubsection*.52}
-\contentsline {subsection}{Modernity}{19}{subsection*.53}
-\contentsline {subsubsection}{Iddish Houses}{19}{subsubsection*.54}
-\contentsline {subsection}{Modern Iddish Society}{19}{subsection*.55}
-\contentsline {subsection}{Iddish Culture}{19}{subsection*.56}
-\contentsline {chapter}{Vinayaka}{21}{chapter*.57}
-\contentsline {section}{Tz'amtanak'al}{21}{section*.58}
-\contentsline {subsection}{Mythology}{21}{subsection*.59}
-\contentsline {chapter}{Index}{23}{section*.60}
+\contentsline {section}{Bulkhan Peninsula}{5}{section*.13}
+\contentsline {subsection}{History}{6}{subsection*.14}
+\contentsline {subsubsection}{Founding}{6}{subsubsection*.15}
+\contentsline {paragraph}{Decline of Firiir}{6}{paragraph*.16}
+\contentsline {paragraph}{Rise of Tinar}{6}{paragraph*.17}
+\contentsline {paragraph}{Tinar Expansion, Conflicts with Lashnar}{6}{paragraph*.18}
+\contentsline {paragraph}{Subjugation of Lashnar, Skudar}{6}{paragraph*.19}
+\contentsline {paragraph}{Unification with Valona}{6}{paragraph*.20}
+\contentsline {subsubsection}{Early Period}{6}{subsubsection*.21}
+\contentsline {paragraph}{The Babuas and the Zoginates}{6}{paragraph*.22}
+\contentsline {paragraph}{Foreign Interventions}{6}{paragraph*.23}
+\contentsline {subsubsection}{Enver's Storm, War}{6}{subsubsection*.24}
+\contentsline {paragraph}{Enver's Storm}{6}{paragraph*.25}
+\contentsline {paragraph}{Enver's War}{6}{paragraph*.26}
+\contentsline {paragraph}{Beliar's Reforms and Aftermath}{6}{paragraph*.27}
+\contentsline {subsubsection}{Beliar-Reform Period}{6}{subsubsection*.28}
+\contentsline {paragraph}{Consolidation of authority}{6}{paragraph*.29}
+\contentsline {paragraph}{Expansion and Hegemony}{6}{paragraph*.30}
+\contentsline {paragraph}{Stagnation}{6}{paragraph*.31}
+\contentsline {subsubsection}{Ximal-Reform Period}{6}{subsubsection*.32}
+\contentsline {paragraph}{Ximal, The Great: Early Life}{6}{paragraph*.33}
+\contentsline {paragraph}{Scribe's Revolt}{6}{paragraph*.34}
+\contentsline {paragraph}{Reform and Consolidation of Power}{6}{paragraph*.35}
+\contentsline {paragraph}{Expansion into the Il'Vagur Peninsula}{6}{paragraph*.36}
+\contentsline {paragraph}{Subjugation of the Mai-Mai Coastline and Plateau}{6}{paragraph*.37}
+\contentsline {paragraph}{The Tokkan Dragon Wars}{6}{paragraph*.38}
+\contentsline {paragraph}{Bulkahn Golen Age}{6}{paragraph*.39}
+\contentsline {subsubsection}{Decline}{6}{subsubsection*.40}
+\contentsline {paragraph}{Global Exchange and Bulkhai}{6}{paragraph*.41}
+\contentsline {chapter}{Pangu}{7}{chapter*.42}
+\contentsline {chapter}{Silvonia}{9}{chapter*.43}
+\contentsline {chapter}{Ullr}{11}{chapter*.44}
+\contentsline {section}{Id}{11}{section*.45}
+\contentsline {subsection}{Iddish History}{11}{subsection*.46}
+\contentsline {subsubsection}{Early History}{11}{subsubsection*.47}
+\contentsline {subsubsection}{Introduction of Agriculture}{11}{subsubsection*.48}
+\contentsline {subsubsection}{Iddiat Clans and Raiding of Bialka}{12}{subsubsection*.49}
+\contentsline {subsubsection}{The Iddish Crusades}{12}{subsubsection*.50}
+\contentsline {subsubsection}{Iddiat Participation in Skadunist Crusades}{12}{subsubsection*.51}
+\contentsline {subsubsection}{Creation of Hearths}{12}{subsubsection*.52}
+\contentsline {subsubsection}{Demirbjorn Revolution and Iddish High Kings}{12}{subsubsection*.53}
+\contentsline {subsubsection}{Conspiracy of Id}{12}{subsubsection*.54}
+\contentsline {subsubsection}{First Dissonance}{12}{subsubsection*.55}
+\contentsline {subsubsection}{Reformative Era}{12}{subsubsection*.56}
+\contentsline {subsubsection}{Kupperstar and Panserna Dynasties}{12}{subsubsection*.57}
+\contentsline {subsubsection}{Second Dissonance}{12}{subsubsection*.58}
+\contentsline {subsubsection}{Empire of Great Id}{12}{subsubsection*.59}
+\contentsline {subsubsection}{Third Dissonance}{12}{subsubsection*.60}
+\contentsline {subsubsection}{First Parliamentary Era}{12}{subsubsection*.61}
+\contentsline {subsubsection}{Fourth Dissonance and Second Parliamentary Era}{12}{subsubsection*.62}
+\contentsline {subsubsection}{Millennial Id and the Millennium War}{12}{subsubsection*.63}
+\contentsline {subsubsection}{Modern Id}{12}{subsubsection*.64}
+\contentsline {subsection}{Ancient Iddiat Customs}{12}{subsection*.65}
+\contentsline {subsubsection}{Iddiat Houses and Tribes}{12}{subsubsection*.66}
+\contentsline {subsubsection}{Law of Taboo}{13}{subsubsection*.67}
+\contentsline {subsubsection}{Filial Retinue}{13}{subsubsection*.68}
+\contentsline {subsubsection}{Marital Negotiation}{13}{subsubsection*.69}
+\contentsline {subsubsection}{Ancient Iddish Mythology}{13}{subsubsection*.70}
+\contentsline {subsubsection}{Iddiat Dogsleds}{13}{subsubsection*.71}
+\contentsline {subsection}{Modernity}{13}{subsection*.72}
+\contentsline {subsubsection}{Iddish Houses}{13}{subsubsection*.73}
+\contentsline {subsection}{Modern Iddish Society}{13}{subsection*.74}
+\contentsline {subsection}{Iddish Culture}{13}{subsection*.75}
+\contentsline {chapter}{Vinayaka}{15}{chapter*.76}
+\contentsline {section}{Tz'amtanak'al}{15}{section*.77}
+\contentsline {subsection}{Mythology}{15}{subsection*.78}
+\contentsline {chapter}{Index}{17}{section*.79}
