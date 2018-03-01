@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.20)  27 FEB 2018 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.20)  28 FEB 2018 23:37
 entering extended mode
 **./encyclopedia.tex
 (encyclopedia.tex
@@ -1420,22 +1420,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ] [3] [4
 
 ] (encyclopedia/maat-ujiteru.tex)
-(encyclopedia/maat-bulkhai_sahinate.tex [5]) [6] [7
-
-] [8
+(encyclopedia/maat-bulkhai_sahinate.tex [5] [6]) [7] [8
 
 ] [9] [10
 
-]
-(encyclopedia/ullr-id.tex [11] [12]) [13] [14
+] [11] [12
 
 ]
-(encyclopedia/vinayaka-tzamtanakal.tex) [15] [16
+(encyclopedia/ullr-id.tex [13] [14]) [15] [16
+
+]
+(encyclopedia/vinayaka-tzamtanakal.tex) [17] [18
 
 ]
 runsystem(makeindex encyclopedia.idx)...executed (allowed).
 
- (encyclopedia.ind) [17
+ (encyclopedia.ind) [19
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
@@ -1448,13 +1448,13 @@ Package rerunfilecheck Info: File `encyclopedia.out' has not changed.
 (rerunfilecheck)             Checksum: 6F932F54EACFB9D3DC0F0648157945DD;643.
  ) 
 Here is how much of TeX's memory you used:
- 28352 strings out of 493312
- 608697 string characters out of 3129827
+ 28354 strings out of 493312
+ 608711 string characters out of 3129827
  886314 words of memory out of 3000000
  31351 multiletter control sequences out of 15000+200000
  11431 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,73p,1096b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,11n,73p,1721b,669s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/esule/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/esule/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/esule/AppData/Local/Programs/MiKTeX 2.9/f
@@ -1464,9 +1464,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/esu
 le/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 <C:/Users/esule/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmti12.pfb>
-Output written on encyclopedia.pdf (21 pages, 169047 bytes).
+Output written on encyclopedia.pdf (23 pages, 172410 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 
