@@ -16,18 +16,18 @@
 \contentsline {subsubsection}{Founding}{6}{subsubsection*.15}
 \contentsline {paragraph}{Decline of the Firiik Confederation}{6}{paragraph*.16}
 \contentsline {paragraph}{Rise of Tinar}{6}{paragraph*.17}
-\contentsline {paragraph}{Tinar Expansion, Conflicts with Lashnar}{6}{paragraph*.18}
-\contentsline {paragraph}{Subjugation of Lashnar, Skudar}{6}{paragraph*.19}
-\contentsline {paragraph}{Unification with Valona}{6}{paragraph*.20}
-\contentsline {subsubsection}{Early Period}{6}{subsubsection*.21}
-\contentsline {paragraph}{The Babuas and the Zoginates}{6}{paragraph*.22}
-\contentsline {paragraph}{Foreign Interventions}{6}{paragraph*.23}
-\contentsline {subsubsection}{Enver's Storm, War}{6}{subsubsection*.24}
-\contentsline {paragraph}{Enver's Storm}{6}{paragraph*.25}
-\contentsline {paragraph}{Enver's War}{6}{paragraph*.26}
-\contentsline {paragraph}{Beliar's Reforms and Aftermath}{6}{paragraph*.27}
-\contentsline {subsubsection}{Beliar-Reform Period}{6}{subsubsection*.28}
-\contentsline {paragraph}{Consolidation of authority}{6}{paragraph*.29}
+\contentsline {paragraph}{Tinar Expansion, Conflicts with Lashnar}{7}{paragraph*.18}
+\contentsline {paragraph}{Subjugation of Lashnar, Skudar}{7}{paragraph*.19}
+\contentsline {paragraph}{Unification with Valona}{7}{paragraph*.20}
+\contentsline {subsubsection}{Early Period}{7}{subsubsection*.21}
+\contentsline {paragraph}{The Babuas and the Zoginates}{7}{paragraph*.22}
+\contentsline {paragraph}{Foreign Interventions}{7}{paragraph*.23}
+\contentsline {subsubsection}{Enver's Storm, War}{7}{subsubsection*.24}
+\contentsline {paragraph}{Enver's Storm}{7}{paragraph*.25}
+\contentsline {paragraph}{Enver's War}{7}{paragraph*.26}
+\contentsline {paragraph}{Beliar's Reforms and Aftermath}{7}{paragraph*.27}
+\contentsline {subsubsection}{Beliar-Reform Period}{7}{subsubsection*.28}
+\contentsline {paragraph}{Consolidation of authority}{7}{paragraph*.29}
 \contentsline {paragraph}{Expansion and Hegemony}{7}{paragraph*.30}
 \contentsline {paragraph}{Stagnation}{7}{paragraph*.31}
 \contentsline {subsubsection}{Ximal-Reform Period}{7}{subsubsection*.32}
